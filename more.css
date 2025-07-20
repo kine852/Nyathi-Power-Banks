@@ -41,7 +41,7 @@ h1 {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   border-top: solid black 1px;
    border-bottom: solid black 1px;
-   Transform: perspective(200px) rotateY(10deg) scaleY(0.7);
+   Transform: perspective(200px) rotateY(10deg) scaleY(1);
  
 }
 
