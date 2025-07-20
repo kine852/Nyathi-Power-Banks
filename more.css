@@ -28,7 +28,7 @@ h1 {
   width: 200px;
   padding: 15px;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
- 
+  transition: transform ease 1s;
   
 }
 
