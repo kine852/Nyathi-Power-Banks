@@ -127,5 +127,10 @@ box-shadow: 2px 2px 2px white ;
 }
 
 .er{
-  width:40px
+  width:40px;
+}
+.er:hover{
+  width:40px;
+  transform:rotate(90deg);
+  transform:scale(-1);
 }
