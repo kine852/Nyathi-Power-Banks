@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: #d1cfcf;
+  box-shadow: 0 1px 5px #ccc;
+}
+header .logo {
+  font-weight: bold;
+  font-size: 20px;
+}
+nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #333;
+}
+.hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 40px 20px;
+  background-color: white;
+}
+.hero img {
+  max-width: 300px;
+  margin: 20px 0;
+}
+.hero h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+.hero p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+button {
+  background: #3e3f41;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.features {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px 20px;
+  background: #f9f9f9;
+  text-align: center;
+}
+.feature {
+  width: 100px;
+}
+.gallery {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px 20px;
+}
+.gallery img {
+  width: 30%;
+  border-radius: 10px;
+  background-color: #eee;
+}
+.cta {
+  text-align: center;
+  padding: 40px 20px;
+  background: #3c3d3d;
+  color: white;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  background: #eee;
+}
+
+.mg{
+    width:100px;
+    background-color: black;
+    display: inline-flex;
+    margin-right:10px;
+    border-radius:5px;
+    border-top: #f9f9f9;
+    border-bottom: #f9f9f9;
+    border:solid 3px;
+    
+}
+
+a{
+  color:rgb(190, 190, 190);
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+  color:rgb(144, 130, 158)
+}
+
+button:hover{
+  border: solid 2px black;
+}
+
+span{
+  font-weight: bolder;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#tsap{
+  width: 70px;
+}
+
+.con{
+  display: flex;
+}
+li{
+  list-style: none;
+}
+
+.hh:hover{
+box-shadow: 2px 2px 2px white ;
+}
+
+.er{
+  width:40px
+}
