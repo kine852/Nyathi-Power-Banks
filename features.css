@@ -4,6 +4,7 @@ body {
   padding: 0;
   color: #333;
   background-image:url(nyat.png) ;
+  background-attachment:fixed;
 }
 
 header {
